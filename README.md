@@ -1,10 +1,10 @@
 # SalleBook
 Site web de reservation de salles -- Universite Mohammed V
 ## Equipe
-- Asma : Integration HTML
-- Ali : CSS et responsive design
-- Lina : JavaScript et interactivite
-- Omar : Tests et accessibilite
+- Houda : Integration HTML
+- Ouissal : CSS et responsive design
+- Nada: JavaScript et interactivite
+- Hiba : Tests et accessibilite
 ## Technologies
 HTML5 | CSS3 | JavaScript vanilla
 ## Lancer le projet
